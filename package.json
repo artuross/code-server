@@ -41,7 +41,7 @@
     "typescript": "^3.2.2",
     "typescript-tslint-plugin": "^0.2.1",
     "uglifyjs-webpack-plugin": "^2.1.1",
-    "webpack": "^4.28.4",
+    "webpack": "^4.31.0",
     "webpack-bundle-analyzer": "^3.0.3",
     "webpack-cli": "^3.2.1",
     "webpack-dev-middleware": "^3.5.0",
